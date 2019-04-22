@@ -1,0 +1,19 @@
+﻿body {
+    font-family: Verdana, sans-serif;
+    font-size:14px;
+}
+
+.mas-header {
+    background-color: #2d3737;
+    border-bottom: 3px solid #ffde00;   
+    height:60px;
+    
+}
+
+.mas-container {
+    padding: 15px 10px 10px 30px;
+    margin: auto;
+    color: mintcream;
+    font-size: 25px;
+    font-weight:bold;
+}
